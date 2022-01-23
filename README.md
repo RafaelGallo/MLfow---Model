@@ -25,7 +25,7 @@
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
-![Logo](https://image.freepik.com/vetores-gratis/fundo-de-rede-de-malha-de-dados-digitais-de-tecnologia_1017-19691.jpg)
+![Logo](https://devclass.com/wp-content/uploads/2018/10/MLflow-logo.png)
 
 
 ## Projeto
@@ -81,6 +81,11 @@ Instalando pacotes
 Instalando as bibliotecas
 
 `pip freeze`
+
+
+# Ciclo modelo machine learning
+
+![Logo](https://lh4.googleusercontent.com/rwaMzrCLImiQtWVp0g5lcKS_Q82xaizNjHq2B3B0Cj93UL1kMREDOMsVJ-9yExH498z_elQPmiE43yILSxpl-HMmuvbTgacDMUmw4kIsOvowJKqCXHlEQSqEDeGWZsAMM78CJTv4)
 
 
 ## Instalação
